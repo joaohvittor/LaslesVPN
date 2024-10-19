@@ -88,12 +88,4 @@ Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE)
 
 ```
 
-### Personalização
-
-- **URL do Repositório**: Substitua `<URL_DO_REPOSITORIO>` pela URL do seu repositório no GitHub.
-- **Licença**: Inclua um arquivo de licença se necessário ou ajuste a seção de licença conforme o que você desejar.
-- **Dependências**: Se você tiver outras dependências, adicione-as na seção de instalação.
-- **Instruções Específicas**: Adicione qualquer instrução ou informação específica que você achar relevante para o seu projeto.
-
-Sinta-se à vontade para modificar e adaptar o arquivo conforme suas necessidades!
 ```
