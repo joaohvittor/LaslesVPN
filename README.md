@@ -27,9 +27,9 @@ LaslesVPN/
 
 ## Funcionalidades
 
-- **Cadastro de Usuários**: Os usuários podem se cadastrar informando nome, email e senha.
-- **Login de Usuários**: Validação de login utilizando email e senha.
-- **Banco de Dados**: Armazenamento das informações dos usuários em um banco de dados MySQL.
+- Cadastro de Usuários: Os usuários podem se cadastrar informando nome, email e senha.
+- Login de Usuários: Validação de login utilizando email e senha.
+- Banco de Dados: Armazenamento das informações dos usuários em um banco de dados MySQL.
 
 ## Instalação
 
@@ -41,9 +41,9 @@ LaslesVPN/
 
 ### Passos para Instalação
 
-1. **Clone o repositório:**
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
+1. Clone o repositório:
+   bash
+   git clone https://github.com/joaohvittor/LaslesVPN.git
    cd LaslesVPN
 ```
 
